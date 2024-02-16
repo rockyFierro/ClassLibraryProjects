@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppLoggerSample.0.000.626</id>
+    <version>1.0.0</version>
+    <authors>Albert Fierro</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="eeb9a5b31d5af5e1ed49d4bb976c69bf39e0d818" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/bin/Release/net8.0/AppLogger.dll" target="lib/net8.0/AppLogger.dll" />
+  </files>
+</package>

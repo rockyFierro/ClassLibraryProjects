@@ -1,0 +1,12 @@
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/bin/Release/net8.0/AppLogger.deps.json
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/bin/Release/net8.0/AppLogger.dll
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/bin/Release/net8.0/AppLogger.pdb
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.AssemblyInfoInputs.cache
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.AssemblyInfo.cs
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.csproj.CoreCompileInputs.cache
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.sourcelink.json
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.dll
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/refint/AppLogger.dll
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/AppLogger.pdb
+/home/rocketslam/Projects/ClassLibraryProjects/AppLogger/obj/Release/net8.0/ref/AppLogger.dll
