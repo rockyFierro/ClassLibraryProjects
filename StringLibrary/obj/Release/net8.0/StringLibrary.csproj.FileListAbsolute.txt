@@ -1,0 +1,11 @@
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.deps.json
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.dll
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.pdb
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.AssemblyInfoInputs.cache
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.AssemblyInfo.cs
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.dll
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/refint/StringLibrary.dll
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.pdb
+/home/rocketslam/Projects/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/ref/StringLibrary.dll
